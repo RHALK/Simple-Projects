@@ -1,5 +1,6 @@
 # Simple-Projects
 Overview
+
 This repository contains various projects demonstrating my ability to work with SQL, Python, Tableau, Power BI, and Excel. While these projects are  simple, they highlight my ability to analyze data, automate processes, and generate insights. I am fully capable of handling more complex and challenging tasks.
 
 Tools Used
